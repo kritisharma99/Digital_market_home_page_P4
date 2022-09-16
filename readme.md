@@ -27,6 +27,6 @@
 ## Acknowledgment
 ### Instructor- Hitesh Choudhary
 ![iNeuronL](https://img.shields.io/badge/iNeuron%20%20-red)
-#### This project took around 7 hours to complete.
+#### This project took around 4 hours to complete.
 
 ---
