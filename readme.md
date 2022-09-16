@@ -1,4 +1,4 @@
-# Project 1 - Digital Marketing Home Page HTML ![HTML](./assets/html-5%20(1).png)  and CSS ![CSS](./assets/css-3.png)
+# Project 4 - Digital Marketing Home Page HTML ![HTML](./assets/html-5%20(1).png)  and CSS ![CSS](./assets/css-3.png)
 
 ### By Kriti Sharma
 
